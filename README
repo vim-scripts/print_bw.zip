@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=233
+
+This colorscheme is just black and white but uses the font attributes bold, italic, and underline.  This allows printing of highlighted files on black and white printers where shades of gray can be hard to read.  On color printers it also means you don't use up the more expensive colored inks.
+
+The colorscheme is meant to be used just when printing.  Change colorscheme to print_bw, print, and then change back to your prefered scheme.  This could be done via a map or a script I guess.
